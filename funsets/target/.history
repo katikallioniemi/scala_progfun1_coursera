@@ -1,0 +1,6 @@
+def singletonSet(elem: Int): Set = Set(elem)
+  scala
+repl
+scala
+submit   kati.kallioniemi@metropolia.fi bsWqmyO9kw3SwfUe 
+submit kati.kallioniemi@metropolia.fi M1g0yOSdav4oKnbi

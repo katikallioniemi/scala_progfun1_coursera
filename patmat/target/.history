@@ -1,0 +1,17 @@
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo C:/Users/K/AppData/Local/Temp/sbt-structure.xml; session clear-all
+test
+run
+run Huffman_main
+166/3
+val 166/3
+eval 166/3
+run Huffman_main
+submit kati.kallioniemi@metropolia.fi OnCTqCPJGibEK7hu
+run Huffman
+test
+submit kati.kallioniemi@metropolia.fi OnCTqCPJGibEK7hu
+run Huffman_main
+quickEncode(frenchCode)(string2Chars("Helloo"))
+"Hello"
+run Huffman_main
+submit kati.kallioniemi@metropolia.fi nOBfOAD7mMfDUlwh

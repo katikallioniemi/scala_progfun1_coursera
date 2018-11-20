@@ -1,0 +1,26 @@
+[0m[[0minfo[0m] [0m[32mTweetSetSuite:[0m[0m
+[0m[[0minfo[0m] [0m[31mException encountered when attempting to run a suite with class name: objsets.TweetSetSuite *** ABORTED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  java.lang.NoClassDefFoundError: objsets/Empty[0m[0m
+[0m[[0minfo[0m] [0m[31m  at objsets.TweetSetSuite$TestSets$class.$init$(TweetSetSuite.scala:12)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at objsets.TweetSetSuite$$anonfun$1$$anon$1.<init>(TweetSetSuite.scala:31)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at objsets.TweetSetSuite$$anonfun$1.apply$mcV$sp(TweetSetSuite.scala:31)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at objsets.TweetSetSuite$$anonfun$1.apply(TweetSetSuite.scala:31)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at objsets.TweetSetSuite$$anonfun$1.apply(TweetSetSuite.scala:31)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer$$anonfun$apply$1.apply$mcV$sp(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$class.outcomeOf(OutcomeOf.scala:85)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:20)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m
+[0m[[0minfo[0m] [0m[31m  Cause: java.lang.ClassNotFoundException: objsets.Empty[0m[0m
+[0m[[0minfo[0m] [0m[31m  at java.net.URLClassLoader.findClass(URLClassLoader.java:381)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at java.lang.ClassLoader.loadClass(ClassLoader.java:424)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at java.lang.ClassLoader.loadClass(ClassLoader.java:357)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at objsets.TweetSetSuite$TestSets$class.$init$(TweetSetSuite.scala:12)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at objsets.TweetSetSuite$$anonfun$1$$anon$1.<init>(TweetSetSuite.scala:31)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at objsets.TweetSetSuite$$anonfun$1.apply$mcV$sp(TweetSetSuite.scala:31)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at objsets.TweetSetSuite$$anonfun$1.apply(TweetSetSuite.scala:31)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at objsets.TweetSetSuite$$anonfun$1.apply(TweetSetSuite.scala:31)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer$$anonfun$apply$1.apply$mcV$sp(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$class.outcomeOf(OutcomeOf.scala:85)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m

@@ -1,0 +1,1452 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+89 items
+G:\My Drive\SCALA_COURSERA\patmat\project\CommonBuild.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\CommonBuild$class.class
+G:\My Drive\SCALA_COURSERA\patmat\project\CommonBuild.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\CommonBuild.class
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\Assignment$.class
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\Assignment.class
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\CourseraId$.class
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\CourseraId.class
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\Courses$.class
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\Courses.class
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StyleCheck$.class
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StyleCheck.class
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\GradingFeedback.class
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\RecordingLogger$.class
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\RecordingLogger.class
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\GradingSummary$.class
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\GradingSummary.class
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anon$2.class
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$1.class
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$10.class
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$11.class
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$12.class
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$13.class
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$14.class
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$2.class
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$3.class
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$4.class
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$5.class
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$6.class
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$7.class
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$8.class
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$9.class
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$invokeScalaTestInSeparateProcess$1.class
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$invokeScalaTestInSeparateProcess$2.class
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$.class
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$GradingSummaryUnpickler1$2$$anon$1$$typecreator1$1.class
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$GradingSummaryUnpickler1$2$$anon$1.class
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$GradingSummaryUnpickler1$2$.class
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$LimitedStringBuffer.class
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner.class
+G:\My Drive\SCALA_COURSERA\patmat\project\Settings.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\Settings$.class
+G:\My Drive\SCALA_COURSERA\patmat\project\Settings.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\Settings.class
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuild.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuild$.class
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuild.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuild.class
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\AssignmentInfo$.class
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\AssignmentInfo.class
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\MapMapString$.class
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\MapMapString.class
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$1$$anonfun$2.class
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$1$$anonfun$3.class
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$1$$anonfun$4$$anonfun$apply$1.class
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$1$$anonfun$4.class
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$1.class
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$12$$anonfun$apply$10.class
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$12$$anonfun$apply$9.class
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$12.class
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$5.class
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$prepareJar$1.class
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$prepareJar$2.class
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$prepareJar$3.class
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$prepareJar$4.class
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$1.class
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$2.class
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$3.class
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$4.class
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$5.class
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$6.class
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2$$anonfun$apply$3$$anonfun$apply$4.class
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2$$anonfun$apply$3.class
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2.class
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitLocalSetting$1.class
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$10.class
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$11.class
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$6.class
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$7.class
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$8.class
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$9.class
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$7.class
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$8.class
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$postSubmission$1$1.class
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$reportCourseraResponse$1$1.class
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$reportCourseraResponse$1$2.class
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$reportCourseraResponse$1$3.class
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$reportCourseraResponse$1$4.class
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6.class
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5.class
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1.class
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike.class
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StyleChecker$.class
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StyleChecker$CustomTextOutput.class
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StyleChecker.class
+binary dependencies:
+44 items
+G:\My Drive\SCALA_COURSERA\patmat\project\CommonBuild.scala -> C:\Program Files\Java\jre1.8.0_101\lib\rt.jar
+G:\My Drive\SCALA_COURSERA\patmat\project\CommonBuild.scala -> C:\Users\K\.ivy2\cache\org.scala-sbt\ivy\jars\ivy-0.13.17.jar
+G:\My Drive\SCALA_COURSERA\patmat\project\CommonBuild.scala -> C:\Users\K\.ivy2\cache\org.scala-sbt\main-settings\jars\main-settings-0.13.17.jar
+G:\My Drive\SCALA_COURSERA\patmat\project\CommonBuild.scala -> C:\Users\K\.ivy2\cache\org.scala-sbt\main\jars\main-0.13.17.jar
+G:\My Drive\SCALA_COURSERA\patmat\project\CommonBuild.scala -> C:\Users\K\.ivy2\cache\org.scala-sbt\sbt\jars\sbt-0.13.17.jar
+G:\My Drive\SCALA_COURSERA\patmat\project\CommonBuild.scala -> C:\Users\K\.sbt\boot\scala-2.10.7\lib\scala-library.jar
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> C:\Program Files\Java\jre1.8.0_101\lib\rt.jar
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> C:\Users\K\.sbt\boot\scala-2.10.7\lib\scala-library.jar
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> C:\Program Files\Java\jre1.8.0_101\lib\rt.jar
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> C:\Users\K\.ivy2\cache\org.scala-sbt\logging\jars\logging-0.13.17.jar
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> C:\Users\K\.sbt\boot\scala-2.10.7\lib\scala-library.jar
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> C:\Program Files\Java\jre1.8.0_101\lib\rt.jar
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> C:\Users\K\.ivy2\cache\org.scala-lang.modules\scala-pickling_2.10\jars\scala-pickling_2.10-0.10.1.jar
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> C:\Users\K\.ivy2\cache\org.scala-sbt\collections\jars\collections-0.13.17.jar
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> C:\Users\K\.ivy2\cache\org.scala-sbt\io\jars\io-0.13.17.jar
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> C:\Users\K\.ivy2\cache\org.scala-sbt\main\jars\main-0.13.17.jar
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> C:\Users\K\.ivy2\cache\org.scala-sbt\sbt\jars\sbt-0.13.17.jar
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> C:\Users\K\.sbt\boot\scala-2.10.7\lib\scala-library.jar
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> C:\Users\K\.sbt\boot\scala-2.10.7\lib\scala-reflect.jar
+G:\My Drive\SCALA_COURSERA\patmat\project\Settings.scala -> C:\Program Files\Java\jre1.8.0_101\lib\rt.jar
+G:\My Drive\SCALA_COURSERA\patmat\project\Settings.scala -> C:\Users\K\.sbt\boot\scala-2.10.7\lib\scala-library.jar
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> C:\Program Files\Java\jre1.8.0_101\lib\rt.jar
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> C:\Users\K\.ivy2\cache\commons-codec\commons-codec\jars\commons-codec-1.10.jar
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> C:\Users\K\.ivy2\cache\org.scala-sbt\apply-macro\jars\apply-macro-0.13.17.jar
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> C:\Users\K\.ivy2\cache\org.scala-sbt\collections\jars\collections-0.13.17.jar
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> C:\Users\K\.ivy2\cache\org.scala-sbt\command\jars\command-0.13.17.jar
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> C:\Users\K\.ivy2\cache\org.scala-sbt\completion\jars\completion-0.13.17.jar
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> C:\Users\K\.ivy2\cache\org.scala-sbt\incremental-compiler\jars\incremental-compiler-0.13.17.jar
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> C:\Users\K\.ivy2\cache\org.scala-sbt\io\jars\io-0.13.17.jar
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> C:\Users\K\.ivy2\cache\org.scala-sbt\ivy\jars\ivy-0.13.17.jar
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> C:\Users\K\.ivy2\cache\org.scala-sbt\logging\jars\logging-0.13.17.jar
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> C:\Users\K\.ivy2\cache\org.scala-sbt\main-settings\jars\main-settings-0.13.17.jar
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> C:\Users\K\.ivy2\cache\org.scala-sbt\main\jars\main-0.13.17.jar
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> C:\Users\K\.ivy2\cache\org.scala-sbt\sbt\jars\sbt-0.13.17.jar
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> C:\Users\K\.ivy2\cache\org.scala-sbt\task-system\jars\task-system-0.13.17.jar
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> C:\Users\K\.ivy2\cache\org.scalaj\scalaj-http_2.10\jars\scalaj-http_2.10-2.2.1.jar
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> C:\Users\K\.sbt\boot\scala-2.10.7\lib\scala-compiler.jar
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> C:\Users\K\.sbt\boot\scala-2.10.7\lib\scala-library.jar
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> C:\Users\K\.sbt\boot\scala-2.10.7\lib\scala-reflect.jar
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> C:\Program Files\Java\jre1.8.0_101\lib\rt.jar
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> C:\Users\K\.ivy2\cache\com.typesafe\config\bundles\config-1.2.0.jar
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> C:\Users\K\.ivy2\cache\org.scala-sbt\sbt\jars\sbt-0.13.17.jar
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> C:\Users\K\.ivy2\cache\org.scalastyle\scalastyle_2.10\jars\scalastyle_2.10-0.8.0.jar
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> C:\Users\K\.sbt\boot\scala-2.10.7\lib\scala-library.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+6 items
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\Settings.scala
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuild.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\CommonBuild.scala
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\Settings.scala
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+2 items
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuild.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> G:\My Drive\SCALA_COURSERA\patmat\project\CommonBuild.scala
+inheritance external dependencies:
+0 items
+class names:
+89 items
+G:\My Drive\SCALA_COURSERA\patmat\project\CommonBuild.scala -> CommonBuild
+G:\My Drive\SCALA_COURSERA\patmat\project\CommonBuild.scala -> CommonBuild$class
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> Assignment
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> Assignment$
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> CourseraId
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> CourseraId$
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> Courses
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> Courses$
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> StyleCheck
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> StyleCheck$
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> GradingFeedback
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> RecordingLogger
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> RecordingLogger$
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> GradingSummary
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> GradingSummary$
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> ScalaTestRunner
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> ScalaTestRunner$
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> ScalaTestRunner$$anon$2
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$1
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$10
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$11
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$12
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$13
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$14
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$2
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$3
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$4
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$5
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$6
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$7
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$8
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$9
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$invokeScalaTestInSeparateProcess$1
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$invokeScalaTestInSeparateProcess$2
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> ScalaTestRunner$GradingSummaryUnpickler1$2$
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> ScalaTestRunner$GradingSummaryUnpickler1$2$$anon$1
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> ScalaTestRunner$GradingSummaryUnpickler1$2$$anon$1$$typecreator1$1
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> ScalaTestRunner$LimitedStringBuffer
+G:\My Drive\SCALA_COURSERA\patmat\project\Settings.scala -> Settings
+G:\My Drive\SCALA_COURSERA\patmat\project\Settings.scala -> Settings$
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuild.scala -> StudentBuild
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuild.scala -> StudentBuild$
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> AssignmentInfo
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> AssignmentInfo$
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> MapMapString
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> MapMapString$
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> StudentBuildLike
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$1
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$1$$anonfun$2
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$1$$anonfun$3
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$1$$anonfun$4
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$1$$anonfun$4$$anonfun$apply$1
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$12
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$12$$anonfun$apply$10
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$12$$anonfun$apply$9
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$5
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$prepareJar$1
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$prepareJar$2
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$prepareJar$3
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$prepareJar$4
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$root$1
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$root$2
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$root$3
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$root$4
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$root$5
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$root$6
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitLocalSetting$1
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2$$anonfun$apply$3
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2$$anonfun$apply$3$$anonfun$apply$4
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitSetting$1
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$10
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$11
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$6
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$7
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$8
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$9
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$7
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$8
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$postSubmission$1$1
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$reportCourseraResponse$1$1
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$reportCourseraResponse$1$2
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$reportCourseraResponse$1$3
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$reportCourseraResponse$1$4
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> StyleChecker
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> StyleChecker$
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> StyleChecker$CustomTextOutput
+used names:
+988 items
+G:\My Drive\SCALA_COURSERA\patmat\project\CommonBuild.scala -> %
+G:\My Drive\SCALA_COURSERA\patmat\project\CommonBuild.scala -> %%
+G:\My Drive\SCALA_COURSERA\patmat\project\CommonBuild.scala -> Any
+G:\My Drive\SCALA_COURSERA\patmat\project\CommonBuild.scala -> Build
+G:\My Drive\SCALA_COURSERA\patmat\project\CommonBuild.scala -> CommonBuild
+G:\My Drive\SCALA_COURSERA\patmat\project\CommonBuild.scala -> GroupArtifactID
+G:\My Drive\SCALA_COURSERA\patmat\project\CommonBuild.scala -> GroupID
+G:\My Drive\SCALA_COURSERA\patmat\project\CommonBuild.scala -> Int
+G:\My Drive\SCALA_COURSERA\patmat\project\CommonBuild.scala -> ManifestFactory
+G:\My Drive\SCALA_COURSERA\patmat\project\CommonBuild.scala -> ModuleID
+G:\My Drive\SCALA_COURSERA\patmat\project\CommonBuild.scala -> Nothing
+G:\My Drive\SCALA_COURSERA\patmat\project\CommonBuild.scala -> Predef
+G:\My Drive\SCALA_COURSERA\patmat\project\CommonBuild.scala -> Seq
+G:\My Drive\SCALA_COURSERA\patmat\project\CommonBuild.scala -> SettingKey
+G:\My Drive\SCALA_COURSERA\patmat\project\CommonBuild.scala -> String
+G:\My Drive\SCALA_COURSERA\patmat\project\CommonBuild.scala -> T
+G:\My Drive\SCALA_COURSERA\patmat\project\CommonBuild.scala -> apply
+G:\My Drive\SCALA_COURSERA\patmat\project\CommonBuild.scala -> assignment
+G:\My Drive\SCALA_COURSERA\patmat\project\CommonBuild.scala -> classType
+G:\My Drive\SCALA_COURSERA\patmat\project\CommonBuild.scala -> commonSourcePackages
+G:\My Drive\SCALA_COURSERA\patmat\project\CommonBuild.scala -> course
+G:\My Drive\SCALA_COURSERA\patmat\project\CommonBuild.scala -> courseId
+G:\My Drive\SCALA_COURSERA\patmat\project\CommonBuild.scala -> package
+G:\My Drive\SCALA_COURSERA\patmat\project\CommonBuild.scala -> reflect
+G:\My Drive\SCALA_COURSERA\patmat\project\CommonBuild.scala -> sbt
+G:\My Drive\SCALA_COURSERA\patmat\project\CommonBuild.scala -> scala
+G:\My Drive\SCALA_COURSERA\patmat\project\CommonBuild.scala -> toGroupID
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> &&
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> ->
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> ::
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> <init>
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> <repeated>
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> ==
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> A
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> AbstractFunction2
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> AbstractFunction4
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> AbstractFunction5
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> Any
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> AnyRef
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> ArrowAssoc
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> Assignment
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> Assignments
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> B
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> Boolean
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> CourseraId
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> Courses
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> Double
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> IndexOutOfBoundsException
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> Int
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> Iterator
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> List
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> Map
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> Nil
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> None
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> Nothing
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> Object
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> Option
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> Predef
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> Product
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> ScalaRunTime
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> Serializable
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> Some
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> Statics
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> String
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> StyleCheck
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> T
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> T0
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> T1
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> T2
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> T3
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> T4
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> T5
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> Tuple2
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> Tuple4
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> Tuple5
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> _hashCode
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> _toString
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> all
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> any2ArrowAssoc
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> anyHash
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> apply
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> asInstanceOf
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> courseraId
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> doubleHash
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> empty
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> eq
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> finalizeHash
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> immutable
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> isInstanceOf
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> itemId
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> key
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> maxScore
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> mix
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> options
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> package
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> packageName
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> partId
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> premiumItemId
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> runtime
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> sbt
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> scala
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> scoreRatio
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> styleCheck
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> styleSheet
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> styleSheetPath
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> toString
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> typedProductIterator
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> x$10
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> x$11
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> x$12
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> x$13
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> x$14
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> x$15
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> x$16
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> x$17
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> x$18
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> x$19
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> x$20
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> x$21
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> x$22
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> x$23
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> x$24
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> x$25
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> x$26
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> x$27
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> x$28
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> x$9
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> ||
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> *
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> +
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> +=
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> -
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> <byname>
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> <init>
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> <repeated>
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> ==
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> A
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> Any
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> AnyRef
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> Boolean
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> Double
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> Error
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> GradingFeedback
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> Level
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> ListBuffer
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> Logger
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> Nothing
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> Object
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> Predef
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> RecordingLogger
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> String
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> StringContext
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> StringOps
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> Throwable
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> Unit
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> Value
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> _root_
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> addDetails
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> addSummary
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> allTestsPassedMessage
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> apply
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> augmentString
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> buffer
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> clear
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> collection
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> compileFailedMessage
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> failed
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> failed_=
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> feedbackDetails
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> feedbackSummary
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> format
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> level
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> log
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> maxScore
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> maxScore_=
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> maxStyleScore
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> maxTestScore
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> message
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> mkString
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> msg
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> mutable
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> newMaxScore
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> newStyleScoreRatio
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> nonEmpty
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> package
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> perfectStyleMessage
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> res
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> s
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> sbt
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> scala
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> score
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> stripMargin
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> styleProblemsMessage
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> styleScoreRatio
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> styleScoreRatio_=
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> testCompileFailedMessage
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> testExecutionFailedMessage
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> testsFailedMessage
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> totalGradeMessage
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> totalScore
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> unpackFailedMessage
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> vStyleScore
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> vStyleScore_=
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> vTestScore
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> vTestScore_=
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> !=
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> $anon
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> $m
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> $m$untyped
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> $typecreator1
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> $u
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> &&
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> *
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> +
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> /
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> ::
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> <
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> <byname>
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> <init>
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> <refinement>
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> <repeated>
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> ==
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> >
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> A
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> AbstractFunction3
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> Any
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> AnyRef
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> Attributed
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> B
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> B1
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> Boolean
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> BufferedSource
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> Callable
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> CanBuildFrom
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> CharSequence
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> ClassLoader
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> ClassSymbol
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> Classpath
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> Codec
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> Coll
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> Defaults
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> Double
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> ExecutorService
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> Executors
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> FastTypeTag
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> File
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> Function1
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> Future
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> GRL
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> Generated
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> GradingFeedback
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> GradingSummary
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> GradingSummaryUnpickler1
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> IO
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> IndexOutOfBoundsException
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> Int
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> Iterable
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> Iterator
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> JSONPickleFormat
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> JavaUniverse
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> Keys
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> LimitedStringBuffer
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> List
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> ListBuffer
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> Long
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> Map
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> MatchError
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> Mirror
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> Nil
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> None
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> Nothing
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> Null
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> Object
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> Option
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> PReader
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> PickleFormat
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> PickleOps
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> Pickler
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> Predef
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> Process
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> ProcessBuilder
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> ProcessLogger
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> Product
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> ReentrantLock
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> Ref
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> ScalaRunTime
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> ScalaTestRunner
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> Seq
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> Serializable
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> Settings
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> Singleton
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> Some
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> Source
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> Statics
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> String
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> StringContext
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> StringOps
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> SysProc
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> T
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> T0
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> T1
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> T2
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> T3
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> T4
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> That
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> Throwable
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> TimeUnit
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> TimeoutException
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> Tuple3
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> Tuple4
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> Type
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> TypeCreator
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> TypeSymbol
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> TypeTag
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> U
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> Unit
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> Universe
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> UnpickleOps
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> Unpickler
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> WeakTypeTag
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> _$1
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> _1
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> _2
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> _3
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> _4
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> _root_
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> _toString
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> allTestsPassed
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> anyHash
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> append
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> apply
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> asInstanceOf
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> asType
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> augmentString
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> beginEntry
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> buf
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> cachedMirror
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> cachedMirror_=
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> canBuildFrom
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> cancel
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> classpath
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> classpathString
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> cmd
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> collection
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> computeSummary
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> concurrent
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> currentMirror
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> data
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> delete
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> destroy
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> e
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> endEntry
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> eq
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> executor
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> existentials
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> exitValue
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> fallbackSystemCodec
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> feedback
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> file
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> finalizeHash
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> forkProcess
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> fromFile
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> future
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> genUnpickler
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> get
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> getAbsolutePath
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> getClassLoader
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> getLines
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> getOrElse
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> gradeOptions
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> gradingReporter
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> hintStaticallyElidedType
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> hintTag
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> immutable
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> implicitly
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> individualTestTimeout
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> instragentPath
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> intPickler
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> internal
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> invokeScalaTestInSeparateProcess
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> io
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> ir
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> isEmpty
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> isInstanceOf
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> java
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> json
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> jsonPickleToUnpickleOps
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> key
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> language
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> length
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> lengthCropped
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> lengthCropped_=
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> lines
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> lines_=
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> lock
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> logError
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> map
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> materializeWeakTypeTag
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> maxOutputLineLength
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> maxOutputLines
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> maxScore
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> maxTestScore
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> memory
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> mix
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> mkString
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> msg
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> mutable
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> name
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> ne
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> newSingleThreadExecutor
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> options
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> out
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> outFilePath
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> outfile
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> package
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> pickleFormat
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> pickling
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> prepend
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> println
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> proc
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> process
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> prop
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> readField
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> reader
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> reader1
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> reader2
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> reader3
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> refUnpickler
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> reflect
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> refs
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> replace
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> resourceFiles
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> resourceFilesString
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> result
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> run
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> runLog
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> runPathString
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> runScalaTest
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> runtime
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> runtimeMirror
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> s
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> sbt
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> scala
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> scalaTestCommand
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> scalaTestDefaultWeight
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> scalaTestDefaultWeightProperty
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> scalaTestIndividualTestTimeoutProperty
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> scalaTestReadableFilesProperty
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> scalaTestReportFileProperty
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> scalaTestReporter
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> scalaTestTimeout
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> scaledScore
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> score
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> shortS
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> shutdown
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> staticClass
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> stringPickler
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> stripMargin
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> submit
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> substring
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> summary
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> summaryCmd
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> summaryFilePath
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> summaryFileStr
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> summaryProc
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> sys
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> tag
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> tagKey
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> testClasses
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> testEnv
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> testExecutionDebugLog
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> testExecutionFailed
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> testRunPath
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> testsFailed
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> timeout
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> timeoutPerTest
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> to
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> toInt
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> toLong
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> toString
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> toTypeConstructor
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> tpe
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> trim
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> typeString
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> typedProductIterator
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> unary_!
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> unchecked
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> universe
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> unlock
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> unpickle
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> unpickleSummary
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> unpickler$unpickle$1
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> unpickler$unpickle$2
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> unpickler$unpickle$3
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> util
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> value
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> weakTypeOf
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> xms
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> xmx
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> ||
+G:\My Drive\SCALA_COURSERA\patmat\project\Settings.scala -> *
+G:\My Drive\SCALA_COURSERA\patmat\project\Settings.scala -> <init>
+G:\My Drive\SCALA_COURSERA\patmat\project\Settings.scala -> AnyRef
+G:\My Drive\SCALA_COURSERA\patmat\project\Settings.scala -> Int
+G:\My Drive\SCALA_COURSERA\patmat\project\Settings.scala -> Object
+G:\My Drive\SCALA_COURSERA\patmat\project\Settings.scala -> Settings
+G:\My Drive\SCALA_COURSERA\patmat\project\Settings.scala -> String
+G:\My Drive\SCALA_COURSERA\patmat\project\Settings.scala -> individualTestTimeout
+G:\My Drive\SCALA_COURSERA\patmat\project\Settings.scala -> maxOutputLineLength
+G:\My Drive\SCALA_COURSERA\patmat\project\Settings.scala -> maxOutputLines
+G:\My Drive\SCALA_COURSERA\patmat\project\Settings.scala -> maxSubmitFileSize
+G:\My Drive\SCALA_COURSERA\patmat\project\Settings.scala -> mb
+G:\My Drive\SCALA_COURSERA\patmat\project\Settings.scala -> scala
+G:\My Drive\SCALA_COURSERA\patmat\project\Settings.scala -> scalaTestDefaultWeight
+G:\My Drive\SCALA_COURSERA\patmat\project\Settings.scala -> scalaTestDefaultWeightProperty
+G:\My Drive\SCALA_COURSERA\patmat\project\Settings.scala -> scalaTestIndividualTestTimeoutProperty
+G:\My Drive\SCALA_COURSERA\patmat\project\Settings.scala -> scalaTestReadableFilesProperty
+G:\My Drive\SCALA_COURSERA\patmat\project\Settings.scala -> scalaTestReportFileProperty
+G:\My Drive\SCALA_COURSERA\patmat\project\Settings.scala -> scalaTestReporter
+G:\My Drive\SCALA_COURSERA\patmat\project\Settings.scala -> scalaTestTimeout
+G:\My Drive\SCALA_COURSERA\patmat\project\Settings.scala -> testResultsFileName
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuild.scala -> <init>
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuild.scala -> StudentBuild
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuild.scala -> StudentBuildLike
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> !=
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> $p1
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> $p2
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> $p3
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> $p4
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> $p5
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> $p6
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> &&
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> +
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> +=
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> ---
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> /
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> ::
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> :=
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> <byname>
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> <init>
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> <repeated>
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> ==
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> >
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> A
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> AList
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> AbstractFunction1
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> AbstractFunction5
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> AddSettings
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> Alternative
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> Analysis
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> Any
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> AnyRef
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> AnyValManifest
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> Append
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> Array
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> AssignmentInfo
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> B
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> Base64
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> Boolean
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> Byte
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> C
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> CanBuildFrom
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> ClasspathDep
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> Codec
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> Coll
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> CommonBuild
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> Compile
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> ConfigKey
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> Configuration
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> D
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> Def
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> Defaults
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> E
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> F
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> Failure
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> File
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> FileInputStream
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> FullInstance
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> Function0
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> Function1
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> Http
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> HttpOption
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> HttpOptions
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> HttpRequest
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> HttpResponse
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> IOException
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> Id
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> IndexOutOfBoundsException
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> Initialize
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> InitializeInstance
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> InputKey
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> InputTask
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> InputWrapper
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> Int
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> Iterable
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> Iterator
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> JSON
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> K
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> Keys
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> LinePosition
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> List
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> Logger
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> Long
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> M
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> MacroValue
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> ManifestFactory
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> Map
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> MapMapString
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> Mapper
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> MatchError
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> ModuleID
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> Nil
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> None
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> Nothing
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> Object
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> Option
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> Parser
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> ParserInput
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> ParserInstance
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> Path
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> PathFinder
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> PathMap
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> Predef
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> Product
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> Project
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> ProjectReference
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> RichFile
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> S
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> ScalaRunTime
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> Seq
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> Sequence
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> Serializable
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> Setting
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> SettingKey
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> Settings
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> SettingsDefinition
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> Some
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> SourcePosition
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> State
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> String
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> StringContext
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> StringOps
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> StudentBuildLike
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> StyleChecker
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> Success
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> T
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> T0
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> T1
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> T2
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> T2List
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> T3
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> T4
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> T5
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> T5List
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> T6
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> T6List
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> Task
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> TaskInstance
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> TaskKey
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> TaskStreams
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> Test
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> That
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> Throwable
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> Traversable
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> Try
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> Tuple2
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> Tuple3
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> Tuple4
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> Tuple5
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> Tuple6
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> Types
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> U
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> Unit
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> V
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> Value
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> Z
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> _$71
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> _$72
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> _$74
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> _$9
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> _1
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> _2
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> _3
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> _4
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> _5
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> _6
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> _hashCode
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> _root_
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> _toString
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> allFiles
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> alternative
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> apache
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> app
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> append1
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> appendSeq
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> apply
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> args
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> asInstanceOf
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> asString
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> assess
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> assignment
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> assignmentDetails
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> assignmentInfo
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> assignmentKey
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> assignmentName
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> augmentString
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> base
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> base64Jar
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> baseDirectory
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> binary
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> body
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> bytes
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> canBuildFrom
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> classType
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> close
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> code
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> codec
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> collection
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> commonSourcePackages
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> commonSourcePaths
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> commons
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> compile
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> configurationToKey
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> connTimeout
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> connectMsg
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> course
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> courseName
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> data
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> e
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> email
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> encodeBase64
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> eq
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> errPrefix
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> error
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> ex
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> exception
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> exists
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> f
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> failSubmit
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> failedConnectMsg
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> failedSubmitMsg
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> fallbackSystemCodec
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> feedback
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> file
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> fileLength
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> filesToFinder
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> filter
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> flat
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> fold
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> getAbsolutePath
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> getPath
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> headers
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> hs
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> http
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> id
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> immutable
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> in
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> inConfig
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> info
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> inputErr
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> inputKey
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> io
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> is
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> is2xx
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> is4xx
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> is5xx
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> isInstanceOf
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> itemId
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> jar
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> java
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> json
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> key
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> learnerMsg
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> length
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> libraryDependencies
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> log
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> logger
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> macroValueI
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> macroValueIT
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> make
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> map
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> maxResult
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> maxSubmitFileSize
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> ne
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> nsc
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> option
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> org
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> other
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> package
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> packageSubmission
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> packageSubmissionFiles
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> packageTaskSettings
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> pair
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> parseFull
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> parsed
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> parserToInput
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> parser_☃☃
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> parsing
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> partId
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> path
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> postData
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> postSubmission
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> premiumItemId
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> prepareJar
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> project
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> pure
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> read
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> reflect
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> relativeTo
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> reportCourseraResponse
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> resp
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> respBody
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> response
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> result
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> richFile
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> root
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> runtime
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> s
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> sbt
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> scala
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> scalaSource
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> scalaTestDependency
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> scalaj
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> score
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> sdirs
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> secret
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> set
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> settings
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> singleFileFinder
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> sizeRead
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> sourceFiles
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> sourceMappingsWithoutPackages
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> sources
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> spaceDelimited
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> srcs
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> ss
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> startsWith
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> streams
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> string2path
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> stripMargin
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> styleCheck
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> styleCheckSetting
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> styleSheet
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> submit
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> submitLocal
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> submitLocalSetting
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> submitSetting
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> successfulSubmitMsg
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> sys
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> task
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> toITask
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> toInt
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> toSParser
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> toString
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> tools
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> tuple2
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> tuple5
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> tuple6
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> typedProductIterator
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> unary_!
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> unchecked
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> unmanagedSourceDirectories
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> unmanagedSources
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> util
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> value
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> warn
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> withoutCommonSources
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> wrapInitTask_☃☃
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> wrapInit_☃☃
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> writeAll
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> x
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> |
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> ||
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> +
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> -
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> <init>
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> <repeated>
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> ==
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> ?0
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> Any
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> AnyRef
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> Boolean
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> ByteArrayOutputStream
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> Class
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> ClassLoader
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> Config
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> ConfigFactory
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> CustomTextOutput
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> Directory
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> File
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> FileSpec
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> Int
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> Iterable
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> Level
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> List
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> MatchError
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> Message
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> MessageHelper
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> None
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> Nothing
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> Object
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> Option
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> Output
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> OutputResult
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> OutputStream
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> Predef
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> PrintStream
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> ScalastyleChecker
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> ScalastyleConfiguration
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> Seq
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> Some
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> StartFile
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> String
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> StringContext
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> StringOps
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> StyleChecker
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> StyleError
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> StyleException
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> T
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> T0
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> T1
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> T2
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> Tuple2
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> Unit
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> _root_
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> args
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> asInstanceOf
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> augmentString
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> checkFiles
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> column
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> columnNumber
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> com
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> config
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> configFile
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> customMessage
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> errors
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> file
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> fileCount
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> fileCount_=
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> fileSpec
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> files
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> findMessage
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> getAbsolutePath
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> getClass
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> getClassLoader
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> getFiles
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> getParent
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> io
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> isInstanceOf
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> java
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> key
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> level
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> line
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> lineNumber
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> load
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> m
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> math
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> max
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> maxResult
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> message
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> messageHelper
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> messages
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> msg
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> name
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> org
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> output
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> outputResult
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> package
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> penalties
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> pos
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> print
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> println
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> readFromXml
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> report
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> s
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> sbt
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> scala
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> scalastyle
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> score
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> sources
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> stream
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> stripMargin
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> styleSheetPath
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> text
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> toString
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> typesafe
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> warnings
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> x
+product stamps:
+89 items
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\Assignment$.class -> lastModified(1539087783314)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\Assignment.class -> lastModified(1539087783388)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\AssignmentInfo$.class -> lastModified(1539087783426)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\AssignmentInfo.class -> lastModified(1539087783469)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\CommonBuild$class.class -> lastModified(1539087783532)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\CommonBuild.class -> lastModified(1539087783503)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\CourseraId$.class -> lastModified(1539087783607)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\CourseraId.class -> lastModified(1539087783572)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\Courses$.class -> lastModified(1539087783690)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\Courses.class -> lastModified(1539087783633)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\GradingFeedback.class -> lastModified(1539087783746)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\GradingSummary$.class -> lastModified(1539087783790)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\GradingSummary.class -> lastModified(1539087783841)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\MapMapString$.class -> lastModified(1539087783879)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\MapMapString.class -> lastModified(1539087783930)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\RecordingLogger$.class -> lastModified(1539087784010)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\RecordingLogger.class -> lastModified(1539087783971)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anon$2.class -> lastModified(1539087784146)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$1.class -> lastModified(1539087784180)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$10.class -> lastModified(1539087784216)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$11.class -> lastModified(1539087784247)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$12.class -> lastModified(1539087784278)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$13.class -> lastModified(1539087784317)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$14.class -> lastModified(1539087784348)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$2.class -> lastModified(1539087784383)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$3.class -> lastModified(1539087784411)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$4.class -> lastModified(1539087784441)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$5.class -> lastModified(1539087784467)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$6.class -> lastModified(1539087784492)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$7.class -> lastModified(1539087784518)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$8.class -> lastModified(1539087784543)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$9.class -> lastModified(1539087784568)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$invokeScalaTestInSeparateProcess$1.class -> lastModified(1539087784594)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$invokeScalaTestInSeparateProcess$2.class -> lastModified(1539087784619)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$.class -> lastModified(1539087784100)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$GradingSummaryUnpickler1$2$$anon$1$$typecreator1$1.class -> lastModified(1539087784709)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$GradingSummaryUnpickler1$2$$anon$1.class -> lastModified(1539087784678)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$GradingSummaryUnpickler1$2$.class -> lastModified(1539087784647)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$LimitedStringBuffer.class -> lastModified(1539087784741)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner.class -> lastModified(1539087784037)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\Settings$.class -> lastModified(1539087784794)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\Settings.class -> lastModified(1539087784768)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuild$.class -> lastModified(1539087784850)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuild.class -> lastModified(1539087784825)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$1$$anonfun$2.class -> lastModified(1539087785024)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$1$$anonfun$3.class -> lastModified(1539087785053)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$1$$anonfun$4$$anonfun$apply$1.class -> lastModified(1539087785098)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$1$$anonfun$4.class -> lastModified(1539087785078)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$1.class -> lastModified(1539087784986)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$12$$anonfun$apply$10.class -> lastModified(1539087785148)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$12$$anonfun$apply$9.class -> lastModified(1539087785173)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$12.class -> lastModified(1539087785121)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$5.class -> lastModified(1539087785197)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$prepareJar$1.class -> lastModified(1539087785226)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$prepareJar$2.class -> lastModified(1539087785250)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$prepareJar$3.class -> lastModified(1539087785277)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$prepareJar$4.class -> lastModified(1539087785309)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$1.class -> lastModified(1539087785334)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$2.class -> lastModified(1539087785359)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$3.class -> lastModified(1539087785383)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$4.class -> lastModified(1539087785408)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$5.class -> lastModified(1539087785433)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$6.class -> lastModified(1539087785459)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2$$anonfun$apply$3$$anonfun$apply$4.class -> lastModified(1539087785572)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2$$anonfun$apply$3.class -> lastModified(1539087785544)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2.class -> lastModified(1539087785512)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitLocalSetting$1.class -> lastModified(1539087785484)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$10.class -> lastModified(1539087785711)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$11.class -> lastModified(1539087785738)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$6.class -> lastModified(1539087785763)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$7.class -> lastModified(1539087785791)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$8.class -> lastModified(1539087785817)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$9.class -> lastModified(1539087785843)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$7.class -> lastModified(1539087785867)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$8.class -> lastModified(1539087785886)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$postSubmission$1$1.class -> lastModified(1539087785912)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$reportCourseraResponse$1$1.class -> lastModified(1539087785946)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$reportCourseraResponse$1$2.class -> lastModified(1539087785969)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$reportCourseraResponse$1$3.class -> lastModified(1539087785993)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$reportCourseraResponse$1$4.class -> lastModified(1539087786024)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6.class -> lastModified(1539087785670)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5.class -> lastModified(1539087785624)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1.class -> lastModified(1539087785598)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike.class -> lastModified(1539087784905)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StyleCheck$.class -> lastModified(1539087786091)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StyleCheck.class -> lastModified(1539087786057)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StyleChecker$.class -> lastModified(1539087786174)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StyleChecker$CustomTextOutput.class -> lastModified(1539087786211)
+G:\My Drive\SCALA_COURSERA\patmat\project\target\scala-2.10\sbt-0.13\classes\StyleChecker.class -> lastModified(1539087786140)
+source stamps:
+8 items
+G:\My Drive\SCALA_COURSERA\patmat\project\CommonBuild.scala -> hash(09460300fc1be147a8f00fb80fe010ef59fa01f2)
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> hash(385240002559b507d0e4d75a351bea9c89a6dcde)
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> hash(465ad938dd5b956be8d9c8c4e0e5ff0ccd34b760)
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> hash(744950c1944944d2fb9f46f2d57c3873280f2a78)
+G:\My Drive\SCALA_COURSERA\patmat\project\Settings.scala -> hash(d7e0072c3c0c16a01ad0dc727c97ecccf8f7791a)
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuild.scala -> hash(ec89d09f3293126eee5f4127779e8bf052674095)
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> hash(d152234c5edec1c00efb674d45635ec79d081dde)
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> hash(71fa97d829a902e35bad1e762522c42cbbb5c837)
+binary stamps:
+21 items
+C:\Program Files\Java\jre1.8.0_101\lib\rt.jar -> lastModified(1472466346295)
+C:\Users\K\.ivy2\cache\com.typesafe\config\bundles\config-1.2.0.jar -> lastModified(1389798583000)
+C:\Users\K\.ivy2\cache\commons-codec\commons-codec\jars\commons-codec-1.10.jar -> lastModified(1415283333000)
+C:\Users\K\.ivy2\cache\org.scala-lang.modules\scala-pickling_2.10\jars\scala-pickling_2.10-0.10.1.jar -> lastModified(1431710486000)
+C:\Users\K\.ivy2\cache\org.scala-sbt\apply-macro\jars\apply-macro-0.13.17.jar -> lastModified(1517428101000)
+C:\Users\K\.ivy2\cache\org.scala-sbt\collections\jars\collections-0.13.17.jar -> lastModified(1517428109000)
+C:\Users\K\.ivy2\cache\org.scala-sbt\command\jars\command-0.13.17.jar -> lastModified(1517428289000)
+C:\Users\K\.ivy2\cache\org.scala-sbt\completion\jars\completion-0.13.17.jar -> lastModified(1517428155000)
+C:\Users\K\.ivy2\cache\org.scala-sbt\incremental-compiler\jars\incremental-compiler-0.13.17.jar -> lastModified(1517428306000)
+C:\Users\K\.ivy2\cache\org.scala-sbt\io\jars\io-0.13.17.jar -> lastModified(1517428123000)
+C:\Users\K\.ivy2\cache\org.scala-sbt\ivy\jars\ivy-0.13.17.jar -> lastModified(1517428256000)
+C:\Users\K\.ivy2\cache\org.scala-sbt\logging\jars\logging-0.13.17.jar -> lastModified(1517428186000)
+C:\Users\K\.ivy2\cache\org.scala-sbt\main-settings\jars\main-settings-0.13.17.jar -> lastModified(1517428297000)
+C:\Users\K\.ivy2\cache\org.scala-sbt\main\jars\main-0.13.17.jar -> lastModified(1517428332000)
+C:\Users\K\.ivy2\cache\org.scala-sbt\sbt\jars\sbt-0.13.17.jar -> lastModified(1517428372000)
+C:\Users\K\.ivy2\cache\org.scala-sbt\task-system\jars\task-system-0.13.17.jar -> lastModified(1517428237000)
+C:\Users\K\.ivy2\cache\org.scalaj\scalaj-http_2.10\jars\scalaj-http_2.10-2.2.1.jar -> lastModified(1452005615000)
+C:\Users\K\.ivy2\cache\org.scalastyle\scalastyle_2.10\jars\scalastyle_2.10-0.8.0.jar -> lastModified(1449002502000)
+C:\Users\K\.sbt\boot\scala-2.10.7\lib\scala-compiler.jar -> lastModified(1509739633000)
+C:\Users\K\.sbt\boot\scala-2.10.7\lib\scala-library.jar -> lastModified(1509739617000)
+C:\Users\K\.sbt\boot\scala-2.10.7\lib\scala-reflect.jar -> lastModified(1509739627000)
+class names:
+21 items
+C:\Program Files\Java\jre1.8.0_101\lib\rt.jar -> java.lang.Object
+C:\Users\K\.ivy2\cache\com.typesafe\config\bundles\config-1.2.0.jar -> com.typesafe.config.ConfigFactory
+C:\Users\K\.ivy2\cache\commons-codec\commons-codec\jars\commons-codec-1.10.jar -> org.apache.commons.codec.binary.Base64
+C:\Users\K\.ivy2\cache\org.scala-lang.modules\scala-pickling_2.10\jars\scala-pickling_2.10-0.10.1.jar -> scala.pickling.FastTypeTag
+C:\Users\K\.ivy2\cache\org.scala-sbt\apply-macro\jars\apply-macro-0.13.17.jar -> sbt.appmacro.Instance$
+C:\Users\K\.ivy2\cache\org.scala-sbt\collections\jars\collections-0.13.17.jar -> sbt.Init
+C:\Users\K\.ivy2\cache\org.scala-sbt\command\jars\command-0.13.17.jar -> sbt.State
+C:\Users\K\.ivy2\cache\org.scala-sbt\completion\jars\completion-0.13.17.jar -> sbt.complete.Parser
+C:\Users\K\.ivy2\cache\org.scala-sbt\incremental-compiler\jars\incremental-compiler-0.13.17.jar -> sbt.inc.Analysis
+C:\Users\K\.ivy2\cache\org.scala-sbt\io\jars\io-0.13.17.jar -> sbt.Alternative
+C:\Users\K\.ivy2\cache\org.scala-sbt\ivy\jars\ivy-0.13.17.jar -> sbt.ModuleID
+C:\Users\K\.ivy2\cache\org.scala-sbt\logging\jars\logging-0.13.17.jar -> sbt.Logger
+C:\Users\K\.ivy2\cache\org.scala-sbt\main-settings\jars\main-settings-0.13.17.jar -> sbt.std.ParserInstance$
+C:\Users\K\.ivy2\cache\org.scala-sbt\main\jars\main-0.13.17.jar -> sbt.Project$
+C:\Users\K\.ivy2\cache\org.scala-sbt\sbt\jars\sbt-0.13.17.jar -> sbt.package$
+C:\Users\K\.ivy2\cache\org.scala-sbt\task-system\jars\task-system-0.13.17.jar -> sbt.Task
+C:\Users\K\.ivy2\cache\org.scalaj\scalaj-http_2.10\jars\scalaj-http_2.10-2.2.1.jar -> scalaj.http.HttpRequest
+C:\Users\K\.ivy2\cache\org.scalastyle\scalastyle_2.10\jars\scalastyle_2.10-0.8.0.jar -> org.scalastyle.Output
+C:\Users\K\.sbt\boot\scala-2.10.7\lib\scala-compiler.jar -> scala.tools.nsc.io.package$
+C:\Users\K\.sbt\boot\scala-2.10.7\lib\scala-library.jar -> scala.Unit
+C:\Users\K\.sbt\boot\scala-2.10.7\lib\scala-reflect.jar -> scala.reflect.io.File$
+internal apis:
+8 items
+G:\My Drive\SCALA_COURSERA\patmat\project\CommonBuild.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwYQurKgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAgc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwzr/nI3QABm5vdGlmeXNxAH4ADOGjVJ10AAR3YWl0c3EAfgAMmeZPiXQABmNvdXJzZXNxAH4ADCOqaJ90AA0kYXNJbnN0YW5jZU9mc3EAfgAMY2ugbXQADGJ1aWxkTG9hZGVyc3NxAH4ADCjH6Yx0AAhjb3Vyc2VJZHNxAH4ADD2bXld0AAZlcXVhbHNzcQB+AAxGpt8WdAAMYXNJbnN0YW5jZU9mc3EAfgAMAcmbwnQAEnByb2plY3REZWZpbml0aW9uc3NxAH4ADN2qB0x0AAxzeW5jaHJvbml6ZWRzcQB+AAwtCrR7dAANJGlzSW5zdGFuY2VPZnNxAH4ADOPYZlN0AAlub3RpZnlBbGxzcQB+AAzfFWh9dAALcm9vdFByb2plY3RzcQB+AAyECcVRdAAMaXNJbnN0YW5jZU9mc3EAfgAMhg1h5nQABjxpbml0PnNxAH4ADKeOrGZ0ABRjb21tb25Tb3VyY2VQYWNrYWdlc3NxAH4ADNcnUBt0AAI9PXNxAH4ADOYVtZt0AAtDb21tb25CdWlsZHNxAH4ADNuSQ1Z0AAVjbG9uZXNxAH4ADB/mK4x0AAYkaW5pdCRzcQB+AAyveo9jdAATc2NhbGFUZXN0RGVwZW5kZW5jeXNxAH4ADL/6pdF0AAh0b1N0cmluZ3NxAH4ADLGQwsV0AAIhPXNxAH4ADFdlioB0AAhwcm9qZWN0c3NxAH4ADH5Q7n10AAhnZXRDbGFzc3NxAH4ADK5HYKl0AAphc3NpZ25tZW50c3EAfgAMqvyR9XQAAm5lc3EAfgAMcLrUjXQAAmVxc3EAfgAMZ252nnQACHNldHRpbmdzc3EAfgAM1at3/3QAAiMjc3EAfgAMKK+cA3QACGZpbmFsaXplc3EAfgAMi56UuHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AV3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAXEAfgAxdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAFVHJhaXR1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AG5zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AV0wACWluaGVyaXRlZHEAfgBXTAAHcGFyZW50c3EAfgBXeHEAfgBzc3EAfgBudXEAfgBSAAAAAHNxAH4AbnVxAH4AUgAAAABzcQB+AG51cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAA3NyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AHJ0AAVCdWlsZHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AcnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAADc2J0c3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIxzcQB+AH90AAZPYmplY3RzcQB+AINzcQB+AIZ1cQB+AIkAAAADc3EAfgCLdAAEamF2YXNxAH4Ai3QABGxhbmdxAH4AkHNxAH4Af3QAA0FueXNxAH4Ag3NxAH4AhnVxAH4AiQAAAAJzcQB+AIt0AAVzY2FsYXEAfgCQdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWZYx5mMdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQATEc6XE15IERyaXZlXFNDQUxBX0NPVVJTRVJBXHBhdG1hdFxwcm9qZWN0XHRhcmdldFxzY2FsYS0yLjEwXHNidC0wLjEzXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQJRgMA/BvhR6jwD7gP4BDvWfoB8g==
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwdILb5AAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAxc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwkD6AO3QABm5vdGlmeXNxAH4ADNvNTy10AAR3YWl0c3EAfgAMxc1Xi3QACG1heFNjb3Jlc3EAfgAMLQ7CD3QADmNvcHkkZGVmYXVsdCQyc3EAfgAM4ftCzXQADSRhc0luc3RhbmNlT2ZzcQB+AAyt2BvsdAAOY29weSRkZWZhdWx0JDVzcQB+AAxiW7RvdAAKQ291cnNlcmFJZHNxAH4ADJkq0nV0AAxwcm9kdWN0QXJpdHlzcQB+AAw8acS1dAAGZXF1YWxzc3EAfgAMYzdtPXQACmNvdXJzZXJhSWRzcQB+AAyFI89DdAADYWxsc3EAfgAMGXsZv3QADGFzSW5zdGFuY2VPZnNxAH4ADCJert10AAxzeW5jaHJvbml6ZWRzcQB+AAxHqXqAdAANJGlzSW5zdGFuY2VPZnNxAH4ADD6l82d0AAtwYWNrYWdlTmFtZXNxAH4ADNnxSVJ0AApzY29yZVJhdGlvc3EAfgAMycT3/XQACGNhbkVxdWFsc3EAfgAML9u1RnQADmNvcHkkZGVmYXVsdCQ0c3EAfgAMjRDkyHQADXByb2R1Y3RQcmVmaXhzcQB+AAyZ671jdAAJbm90aWZ5QWxsc3EAfgAMDqvtvHQAA2tleXNxAH4ADDAM3Nx0AAxpc0luc3RhbmNlT2ZzcQB+AAy94FYKdAAHb3B0aW9uc3NxAH4ADGLVQkZ0AAY8aW5pdD5zcQB+AAwNttMudAAKc3R5bGVDaGVja3NxAH4ADBsh7TF0AAdDb3Vyc2Vzc3EAfgAMQg2MYHQAAj09c3EAfgAM2WLi83QABWNsb25lc3EAfgAMt8zWi3QACnN0eWxlU2hlZXRzcQB+AAy6TBfCdAAGJGluaXQkc3EAfgAM54zSKHQABml0ZW1JZHNxAH4ADKOo13l0AA5jb3B5JGRlZmF1bHQkM3NxAH4ADM6wL/l0AARjb3B5c3EAfgAM74jAbnQACHRvU3RyaW5nc3EAfgAMRmjtZHQACkFzc2lnbm1lbnRzcQB+AAw+PWC8dAACIT1zcQB+AAwXiwradAAIZ2V0Q2xhc3NzcQB+AAzLNYdxdAALQXNzaWdubWVudHNzcQB+AAza82P7dAANcHJlbWl1bUl0ZW1JZHNxAH4ADF8xPjR0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADMpRvfV0AAJuZXNxAH4ADB5bnAB0AAZwYXJ0SWRzcQB+AAxqN4xbdAACZXFzcQB+AAw4wyF5dAAKU3R5bGVDaGVja3NxAH4ADNS6L1Z0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAy9t5P5dAACIyNzcQB+AAwOdVnZdAAIZmluYWxpemVzcQB+AAzhatJXdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAy77fsEdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAAEc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgB5eHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAcQB+AEF1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AJBzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AeUwACWluaGVyaXRlZHEAfgB5TAAHcGFyZW50c3EAfgB5eHEAfgCVc3EAfgCQdXEAfgB0AAAAAHNxAH4AkHVxAH4AdAAAAABzcQB+AJB1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AJR0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AJRzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AK10AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AK5zcQB+AKF0AANBbnlzcQB+AKVzcQB+AKh1cQB+AKsAAAACc3EAfgCtdAAFc2NhbGFxAH4AtHNxAH4AdnEAfgCDdXEAfgCEAAAAAHNxAH4AhgBxAH4AU3VxAH4AiAAAAAB+cQB+AIp0AAhDbGFzc0RlZnVxAH4AjgAAAABzcQB+AJBxAH4AlnNxAH4AkHNxAH4AmHNxAH4AkHVxAH4AdAAAAABzcQB+AJB1cQB+AHQAAAAAc3EAfgCQdXEAfgCfAAAABnNxAH4AoXQADFNlcmlhbGl6YWJsZXNxAH4ApXNxAH4AqHVxAH4AqwAAAAJzcQB+AK1xAH4Au3EAfgC0c3EAfgChcQB+AM1zcQB+AKVzcQB+AKh1cQB+AKsAAAADc3EAfgCtcQB+ALBzcQB+AK10AAJpb3EAfgC0c3EAfgChdAAHUHJvZHVjdHEAfgDOc3EAfgChdAAGRXF1YWxzcQB+AM5zcQB+AKFxAH4ApHNxAH4ApXNxAH4AqHVxAH4AqwAAAANzcQB+AK1xAH4AsHNxAH4ArXEAfgCycQB+ALRzcQB+AKFxAH4AtnEAfgDOc3EAfgB2cQB+AIN1cQB+AIQAAAAAc3EAfgCGAHEAfgBldXEAfgCIAAAAAHEAfgDAdXEAfgCOAAAAAHNxAH4AkHEAfgCWc3EAfgCQc3EAfgCYc3EAfgCQdXEAfgB0AAAAAHNxAH4AkHVxAH4AdAAAAABzcQB+AJB1cQB+AJ8AAAAGc3EAfgChcQB+AM1zcQB+AKVzcQB+AKh1cQB+AKsAAAACc3EAfgCtcQB+ALtxAH4AtHNxAH4AoXEAfgDNc3EAfgClc3EAfgCodXEAfgCrAAAAA3NxAH4ArXEAfgCwc3EAfgCtdAACaW9xAH4AtHNxAH4AoXEAfgDacQB+APNzcQB+AKF0AAZFcXVhbHNxAH4A83NxAH4AoXEAfgCkc3EAfgClc3EAfgCodXEAfgCrAAAAA3NxAH4ArXEAfgCwc3EAfgCtcQB+ALJxAH4AtHNxAH4AoXEAfgC2cQB+APNzcQB+AHZxAH4Ag3VxAH4AhAAAAABzcQB+AIYAcQB+ABt1cQB+AIgAAAAAcQB+AMB1cQB+AI4AAAAAc3EAfgCQcQB+AJZzcQB+AJBzcQB+AJhzcQB+AJB1cQB+AHQAAAAAc3EAfgCQdXEAfgB0AAAAAHNxAH4AkHVxAH4AnwAAAAZzcQB+AKFxAH4AzXNxAH4ApXNxAH4AqHVxAH4AqwAAAAJzcQB+AK1xAH4Au3EAfgC0c3EAfgChcQB+AM1zcQB+AKVzcQB+AKh1cQB+AKsAAAADc3EAfgCtcQB+ALBzcQB+AK10AAJpb3EAfgC0c3EAfgChcQB+ANpxAH4BF3NxAH4AoXQABkVxdWFsc3EAfgEXc3EAfgChcQB+AKRzcQB+AKVzcQB+AKh1cQB+AKsAAAADc3EAfgCtcQB+ALBzcQB+AK1xAH4AsnEAfgC0c3EAfgChcQB+ALZxAH4BF3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFmWMeZjHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AExHOlxNeSBEcml2ZVxTQ0FMQV9DT1VSU0VSQVxwYXRtYXRccHJvamVjdFx0YXJnZXRcc2NhbGEtMi4xMFxzYnQtMC4xM1xjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUOFJAACVZtQfQ5NdaNRvqnImm3N4=
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwyJVe2QAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAzc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwELvNinQABm5vdGlmeXNxAH4ADILO1a10AA1tYXhUb3RhbFNjb3Jlc3EAfgAMxhRSrnQAB3N1Y2Nlc3NzcQB+AAymEA+gdAAEd2FpdHNxAH4ADKRdhkl0ABF0ZXN0Q29tcGlsZUZhaWxlZHNxAH4ADE3A4I50AA0kYXNJbnN0YW5jZU9mc3EAfgAMscfbW3QABXRyYWNlc3EAfgAMhJOWGnQAEmFuc2lDb2Rlc1N1cHBvcnRlZHNxAH4ADDC2mB10AAR3YXJuc3EAfgAMXX+ws3QACWhhc0Vycm9yc3NxAH4ADJEJDiR0AAx1bnBhY2tGYWlsZWRzcQB+AAyokdaRdAAHdmVyYm9zZXNxAH4ADGpOrIt0AAZlcXVhbHNzcQB+AAyJec80dAAMcGVyZmVjdFN0eWxlc3EAfgAMSx/gGXQAE3Rlc3RFeGVjdXRpb25GYWlsZWRzcQB+AAyRN6f1dAAFY2xlYXJzcQB+AAyh1XqndAAMYXNJbnN0YW5jZU9mc3EAfgAMAzzy7nQADG1heFRlc3RTY29yZXNxAH4ADBi1Gbx0AAxzeW5jaHJvbml6ZWRzcQB+AAywnrPxdAANJGlzSW5zdGFuY2VPZnNxAH4ADNhlKS50AA1tYXhTdHlsZVNjb3Jlc3EAfgAMhcVQK3QADmZlZWRiYWNrU3RyaW5nc3EAfgAMhs743XQABGluZm9zcQB+AAwsWN9LdAAJbm90aWZ5QWxsc3EAfgAMDTJfUXQADmFsbFRlc3RzUGFzc2Vkc3EAfgAMvxfmD3QABWRlYnVnc3EAfgAMpyJYJ3QADGlzSW5zdGFuY2VPZnNxAH4ADPoJTzZ0AA9SZWNvcmRpbmdMb2dnZXJzcQB+AAwmisa4dAAGPGluaXQ+c3EAfgAMeOqDEnQADWNvbXBpbGVGYWlsZWRzcQB+AAyT13ctdAAMcmVhZEFuZENsZWFyc3EAfgAMqnwdiXQABWVycm9yc3EAfgAMQS1B+nQAFXRlc3RFeGVjdXRpb25EZWJ1Z0xvZ3NxAH4ADL53QBd0AA9HcmFkaW5nRmVlZGJhY2tzcQB+AAxH9HJMdAANc3R5bGVQcm9ibGVtc3NxAH4ADL+Eq0d0AAp0b3RhbFNjb3Jlc3EAfgAMzA8sqHQAAj09c3EAfgAMfgdKbXQABWNsb25lc3EAfgAM8sq0+nQAC3NldE1heFNjb3Jlc3EAfgAM5w4GoXQABiRpbml0JHNxAH4ADI4FXgx0AAh0b1N0cmluZ3NxAH4ADHy767h0AAIhPXNxAH4ADFqzRrp0AAhnZXRDbGFzc3NxAH4ADJlgoJR0AAJuZXNxAH4ADDTU3rZ0AAhpc0ZhaWxlZHNxAH4ADCGTlm10AAJlcXNxAH4ADEcxRwR0AANsb2dzcQB+AAwhfrPEdAACIyNzcQB+AAy6gSIvdAAIZmluYWxpemVzcQB+AAwvC+TKdAAIaGFzaENvZGVzcQB+AAzK5pHsdAALdGVzdHNGYWlsZWRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgB9eHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAcQB+AFF1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AlHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgB9TAAJaW5oZXJpdGVkcQB+AH1MAAdwYXJlbnRzcQB+AH14cQB+AJlzcQB+AJR1cQB+AHgAAAAAc3EAfgCUdXEAfgB4AAAAAHNxAH4AlHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AmHQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AmHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AsXQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AsnNxAH4ApXQAA0FueXNxAH4AqXNxAH4ArHVxAH4ArwAAAAJzcQB+ALF0AAVzY2FsYXEAfgC4c3EAfgB6cQB+AId1cQB+AIgAAAAAc3EAfgCKAHEAfgBFdXEAfgCMAAAAAH5xAH4AjnQABk1vZHVsZXVxAH4AkgAAAABzcQB+AJRxAH4AmnNxAH4AlHNxAH4AnHNxAH4AlHVxAH4AeAAAAABzcQB+AJR1cQB+AHgAAAAAc3EAfgCUdXEAfgCjAAAABHNxAH4ApXQABkxvZ2dlcnNxAH4AqXNxAH4ArHVxAH4ArwAAAAJzcQB+ALF0AANzYnRxAH4AuHNxAH4ApXQABkxvZ2dlcnNxAH4AqXNxAH4ArHVxAH4ArwAAAAJzcQB+ALF0AAV4c2J0aXEAfgC4c3EAfgClcQB+AKhzcQB+AKlzcQB+AKx1cQB+AK8AAAADc3EAfgCxcQB+ALRzcQB+ALFxAH4AtnEAfgC4c3EAfgClcQB+ALpzcQB+AKlzcQB+AKx1cQB+AK8AAAACc3EAfgCxcQB+AL9xAH4AuHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFmWMeZjHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AExHOlxNeSBEcml2ZVxTQ0FMQV9DT1VSU0VSQVxwYXRtYXRccHJvamVjdFx0YXJnZXRcc2NhbGEtMi4xMFxzYnQtMC4xM1xjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAURlrZON1blWvo2cjE4OX/DM00t2A=
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwgML3uAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAoc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwHO23wXQABm5vdGlmeXNxAH4ADF2hOc10AAR3YWl0c3EAfgAMxk52unQACG1heFNjb3Jlc3EAfgAMYZ9rYXQADmNvcHkkZGVmYXVsdCQyc3EAfgAMoytZxnQADSRhc0luc3RhbmNlT2ZzcQB+AAxndt+ZdAATTGltaXRlZFN0cmluZ0J1ZmZlcnNxAH4ADFkQAjt0AAxwcm9kdWN0QXJpdHlzcQB+AAyMnn1rdAAGZXF1YWxzc3EAfgAMRJ3i1nQADGFzSW5zdGFuY2VPZnNxAH4ADHl6NAF0AAxydW5TY2FsYVRlc3RzcQB+AAzKhVVgdAAMc3luY2hyb25pemVkc3EAfgAML9wzdnQABXNjb3Jlc3EAfgAMJ9SnS3QADSRpc0luc3RhbmNlT2ZzcQB+AAwzNplQdAADYnVmc3EAfgAMGvDXRXQACGNhbkVxdWFsc3EAfgAMJF9jVXQADXByb2R1Y3RQcmVmaXhzcQB+AAwuH1WMdAAJbm90aWZ5QWxsc3EAfgAMDiz0gnQADGlzSW5zdGFuY2VPZnNxAH4ADA7F7Gl0AA5zY2FsYVRlc3RHcmFkZXNxAH4ADD/heb50AAhmZWVkYmFja3NxAH4ADGAIBCF0AAY8aW5pdD5zcQB+AAygFqCFdAAPU2NhbGFUZXN0UnVubmVyc3EAfgAMVTuKo3QAAj09c3EAfgAMo8+lG3QABWNsb25lc3EAfgAMubgHqnQABiRpbml0JHNxAH4ADGKazR10AA5jb3B5JGRlZmF1bHQkM3NxAH4ADN/+hK10AARjb3B5c3EAfgAMggmp3nQACHRvU3RyaW5nc3EAfgAMl1EhhXQADkdyYWRpbmdTdW1tYXJ5c3EAfgAMe6n2cnQAAiE9c3EAfgAMyTGF53QACGdldENsYXNzc3EAfgAMM/XGynQADmNvcHkkZGVmYXVsdCQxc3EAfgAMZCnk03QAAm5lc3EAfgAMJf6mInQAAmVxc3EAfgAMDJ5FfnQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADEx1ztx0AAIjI3NxAH4ADJWUmjB0AAhmaW5hbGl6ZXNxAH4ADGNThjV0AA5wcm9kdWN0RWxlbWVudHNxAH4ADFKSlaR0AAhoYXNoQ29kZXNxAH4ADEcWQfl0AAZhcHBlbmRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBneHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAEcQB+AEd1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AfnNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBnTAAJaW5oZXJpdGVkcQB+AGdMAAdwYXJlbnRzcQB+AGd4cQB+AINzcQB+AH51cQB+AGIAAAAAc3EAfgB+dXEAfgBiAAAAAHNxAH4AfnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAGc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AgnQADFNlcmlhbGl6YWJsZXNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AgnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AnHNxAH4Aj3EAfgCSc3EAfgCTc3EAfgCWdXEAfgCZAAAAA3NxAH4Am3QABGphdmFzcQB+AJt0AAJpb3EAfgCgc3EAfgCPdAAHUHJvZHVjdHEAfgCVc3EAfgCPdAAGRXF1YWxzcQB+AJVzcQB+AI90AAZPYmplY3RzcQB+AJNzcQB+AJZ1cQB+AJkAAAADc3EAfgCbcQB+AKZzcQB+AJt0AARsYW5ncQB+AKBzcQB+AI90AANBbnlxAH4AlXNxAH4AZHEAfgBxdXEAfgByAAAAAHNxAH4AdABxAH4AOXVxAH4AdgAAAAB+cQB+AHh0AAZNb2R1bGV1cQB+AHwAAAAAc3EAfgB+cQB+AIRzcQB+AH5zcQB+AIZzcQB+AH51cQB+AGIAAAAAc3EAfgB+dXEAfgBiAAAAAHNxAH4AfnVxAH4AjQAAAAJzcQB+AI9xAH4ArnNxAH4Ak3NxAH4AlnVxAH4AmQAAAANzcQB+AJtxAH4ApnNxAH4Am3EAfgC0cQB+AKBzcQB+AI9xAH4AtnNxAH4Ak3NxAH4AlnVxAH4AmQAAAAJzcQB+AJtxAH4AnnEAfgCgdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWZYx5mMdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQATEc6XE15IERyaXZlXFNDQUxBX0NPVVJTRVJBXHBhdG1hdFxwcm9qZWN0XHRhcmdldFxzY2FsYS0yLjEwXHNidC0wLjEzXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABR0SVDBlElE0vufRvLVfDhzKA8qeA==
+G:\My Drive\SCALA_COURSERA\patmat\project\Settings.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwsuf18QAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAgc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw93wlLHQADm1heE91dHB1dExpbmVzc3EAfgAM3fEMOnQABm5vdGlmeXNxAH4ADLpcIXp0AAhTZXR0aW5nc3NxAH4ADAR8sIl0AAR3YWl0c3EAfgAMjbmfqnQADSRhc0luc3RhbmNlT2ZzcQB+AAwURT9jdAAGZXF1YWxzc3EAfgAMcHJGunQAG3NjYWxhVGVzdFJlcG9ydEZpbGVQcm9wZXJ0eXNxAH4ADF0WeMd0AAxhc0luc3RhbmNlT2ZzcQB+AAwznNitdAAMc3luY2hyb25pemVkc3EAfgAMo4yyf3QADSRpc0luc3RhbmNlT2ZzcQB+AAxRMeRndAATdGVzdFJlc3VsdHNGaWxlTmFtZXNxAH4ADDkvgg90AB5zY2FsYVRlc3REZWZhdWx0V2VpZ2h0UHJvcGVydHlzcQB+AAz3q8prdAAJbm90aWZ5QWxsc3EAfgAM8/NW6nQAHnNjYWxhVGVzdFJlYWRhYmxlRmlsZXNQcm9wZXJ0eXNxAH4ADMXow6N0ABFzY2FsYVRlc3RSZXBvcnRlcnNxAH4ADCm4zg90AAxpc0luc3RhbmNlT2ZzcQB+AAxcJJpddAAmc2NhbGFUZXN0SW5kaXZpZHVhbFRlc3RUaW1lb3V0UHJvcGVydHlzcQB+AAxtOJXRdAAWc2NhbGFUZXN0RGVmYXVsdFdlaWdodHNxAH4ADJ/1oq10ABNtYXhPdXRwdXRMaW5lTGVuZ3Roc3EAfgAMA0SkoHQAAj09c3EAfgAM09jp8HQABWNsb25lc3EAfgAMAMWZKXQAFWluZGl2aWR1YWxUZXN0VGltZW91dHNxAH4ADIchIlF0ABFtYXhTdWJtaXRGaWxlU2l6ZXNxAH4ADF3pkb50AAh0b1N0cmluZ3NxAH4ADAf7XC10AAIhPXNxAH4ADO91S8l0AAhnZXRDbGFzc3NxAH4ADKs0Cjp0ABBzY2FsYVRlc3RUaW1lb3V0c3EAfgAM3XEnInQAAm5lc3EAfgAMOSlSEXQAAmVxc3EAfgAM2XegwXQAAiMjc3EAfgAMRMUDZ3QACGZpbmFsaXplc3EAfgAMtcHPv3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AV3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgATdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBuc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFdMAAlpbmhlcml0ZWRxAH4AV0wAB3BhcmVudHNxAH4AV3hxAH4Ac3NxAH4AbnVxAH4AUgAAAABzcQB+AG51cQB+AFIAAAAAc3EAfgBudXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBydAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgByc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCLdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCMc3EAfgB/dAADQW55c3EAfgCDc3EAfgCGdXEAfgCJAAAAAnNxAH4Ai3QABXNjYWxhcQB+AJJ1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZljHmYx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABMRzpcTXkgRHJpdmVcU0NBTEFfQ09VUlNFUkFccGF0bWF0XHByb2plY3RcdGFyZ2V0XHNjYWxhLTIuMTBcc2J0LTAuMTNcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFNfgByw8DBagGtDccnyX7Mz493ka
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuild.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwBkEn+wAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAtc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw3BuZuHQABm5vdGlmeXNxAH4ADCmeQ450AAR3YWl0c3EAfgAMyERfSXQABmNvdXJzZXNxAH4ADEqHzMB0AA0kYXNJbnN0YW5jZU9mc3EAfgAMnbWO8nQADGJ1aWxkTG9hZGVyc3NxAH4ADGELg5R0AAhjb3Vyc2VJZHNxAH4ADIOh9wV0AARyb290c3EAfgAMGh7G5nQABmVxdWFsc3NxAH4ADCKiAK90AA5hc3NpZ25tZW50SW5mb3NxAH4ADC/cIrd0AAxhc0luc3RhbmNlT2ZzcQB+AAzqowmrdAAScHJvamVjdERlZmluaXRpb25zc3EAfgAMplD97nQADHN5bmNocm9uaXplZHNxAH4ADKtNAtt0AA0kaXNJbnN0YW5jZU9mc3EAfgAMMDpQcnQAEnN1Ym1pdExvY2FsU2V0dGluZ3NxAH4ADLvnTMh0AAxlbmNvZGVCYXNlNjRzcQB+AAzKOkV+dAAGc3VibWl0c3EAfgAMPxueK3QACW5vdGlmeUFsbHNxAH4ADIl3F1N0AA1zdWJtaXRTZXR0aW5nc3EAfgAMHJeSI3QAC3Jvb3RQcm9qZWN0c3EAfgAMOlnTpXQADGlzSW5zdGFuY2VPZnNxAH4ADI6r4fN0AApwcmVwYXJlSmFyc3EAfgAMouxVK3QACnN0eWxlQ2hlY2tzcQB+AAxDMu4XdAAUY29tbW9uU291cmNlUGFja2FnZXNzcQB+AAxWg3wZdAACPT1zcQB+AAx9SzfTdAALc3VibWl0TG9jYWxzcQB+AAw6D4ILdAAFY2xvbmVzcQB+AAwpll5qdAAGJGluaXQkc3EAfgAMA8dlTHQAE3NjYWxhVGVzdERlcGVuZGVuY3lzcQB+AAzqrhaKdAAdc291cmNlTWFwcGluZ3NXaXRob3V0UGFja2FnZXNzcQB+AAzqtXp7dAAWcGFja2FnZVN1Ym1pc3Npb25GaWxlc3NxAH4ADP6J6Bd0ABFwYWNrYWdlU3VibWlzc2lvbnNxAH4ADIZYxJ50AAh0b1N0cmluZ3NxAH4ADAojRQ10AAIhPXNxAH4ADLeFaiZ0AAhwcm9qZWN0c3NxAH4ADOmuW7R0AAxTdHVkZW50QnVpbGRzcQB+AAwhqIOHdAAIZ2V0Q2xhc3NzcQB+AAx/Sji5dAAKYXNzaWdubWVudHNxAH4ADCV0i3F0AAJuZXNxAH4ADK7Md5N0ABFzdHlsZUNoZWNrU2V0dGluZ3NxAH4ADGqbvnl0AAJlcXNxAH4ADBAYFzJ0AAhzZXR0aW5nc3NxAH4ADLirWHJ0AApmYWlsU3VibWl0c3EAfgAMSfrEUXQAAiMjc3EAfgAMfnznZXQACGZpbmFsaXplc3EAfgAMM1QzDXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AcXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgBTdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCIc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AHFMAAlpbmhlcml0ZWRxAH4AcUwAB3BhcmVudHNxAH4AcXhxAH4AjXNxAH4AiHVxAH4AbAAAAABzcQB+AIh1cQB+AGwAAAAAc3EAfgCIdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAVzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCMdAAQU3R1ZGVudEJ1aWxkTGlrZXNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AjHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHNxAH4AmXQAC0NvbW1vbkJ1aWxkcQB+AJ9zcQB+AJl0AAVCdWlsZHNxAH4AnXNxAH4AoHVxAH4AowAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHEAfgCmdAADc2J0cQB+AKdzcQB+AJl0AAZPYmplY3RzcQB+AJ1zcQB+AKB1cQB+AKMAAAADc3EAfgCvdAAEamF2YXNxAH4Ar3QABGxhbmdxAH4Ap3NxAH4AmXQAA0FueXNxAH4AnXNxAH4AoHVxAH4AowAAAAJzcQB+AK90AAVzY2FsYXEAfgCndXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWZYx5mMdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQATEc6XE15IERyaXZlXFNDQUxBX0NPVVJTRVJBXHBhdG1hdFxwcm9qZWN0XHRhcmdldFxzY2FsYS0yLjEwXHNidC0wLjEzXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTsidCfMpMSbu5fQSd3novwUmdAlQ==
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwsYRNYgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAABBc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwOejAt3QABm5vdGlmeXNxAH4ADHIhbLF0AAxNYXBNYXBTdHJpbmdzcQB+AAxK+G7kdAAQU3R1ZGVudEJ1aWxkTGlrZXNxAH4ADGNuH3R0AAR3YWl0c3EAfgAMM9oXf3QABmNvdXJzZXNxAH4ADNOGrjN0AA5jb3B5JGRlZmF1bHQkMnNxAH4ADLqhH2B0AA0kYXNJbnN0YW5jZU9mc3EAfgAM8zAj6nQADmNvcHkkZGVmYXVsdCQ1c3EAfgAMDPOtvnQADGJ1aWxkTG9hZGVyc3NxAH4ADNBoSFZ0AAhjb3Vyc2VJZHNxAH4ADH+lLVV0AANtYXBzcQB+AAy5g6sEdAAEcm9vdHNxAH4ADDSIWZ10AAxwcm9kdWN0QXJpdHlzcQB+AAzsiUa5dAAGZXF1YWxzc3EAfgAMylAxWnQADmFzc2lnbm1lbnRJbmZvc3EAfgAMnIjKL3QADGFzSW5zdGFuY2VPZnNxAH4ADOJLXqF0ABJwcm9qZWN0RGVmaW5pdGlvbnNzcQB+AAzAs5tYdAAOQXNzaWdubWVudEluZm9zcQB+AAxw2GNOdAAMc3luY2hyb25pemVkc3EAfgAMmHiJj3QADSRpc0luc3RhbmNlT2ZzcQB+AAy8Y6lCdAASc3VibWl0TG9jYWxTZXR0aW5nc3EAfgAMWc979nQADGVuY29kZUJhc2U2NHNxAH4ADP+Jk+V0AAhjYW5FcXVhbHNxAH4ADI3bGZZ0AAZzdWJtaXRzcQB+AAwsdRnzdAAOY29weSRkZWZhdWx0JDRzcQB+AAym3KJKdAANcHJvZHVjdFByZWZpeHNxAH4ADPepeIp0AAlub3RpZnlBbGxzcQB+AAzCHgDFdAANc3VibWl0U2V0dGluZ3NxAH4ADMzHOil0AAtyb290UHJvamVjdHNxAH4ADH1mXhZ0AANrZXlzcQB+AAzOa17qdAAMaXNJbnN0YW5jZU9mc3EAfgAMMUoGMnQABjxpbml0PnNxAH4ADOB6iUR0AApwcmVwYXJlSmFyc3EAfgAM9Vs2HnQACnN0eWxlQ2hlY2tzcQB+AAyroNJTdAAUY29tbW9uU291cmNlUGFja2FnZXNzcQB+AAyux+PSdAACPT1zcQB+AAxDUMZYdAALc3VibWl0TG9jYWxzcQB+AAzr5lERdAAFY2xvbmVzcQB+AAw22g5ZdAAKc3R5bGVTaGVldHNxAH4ADJMdfBJ0AAYkaW5pdCRzcQB+AAx9Vs4mdAATc2NhbGFUZXN0RGVwZW5kZW5jeXNxAH4ADHekC/J0AB1zb3VyY2VNYXBwaW5nc1dpdGhvdXRQYWNrYWdlc3NxAH4ADKXMkCh0AAZpdGVtSWRzcQB+AAzn3JifdAAWcGFja2FnZVN1Ym1pc3Npb25GaWxlc3NxAH4ADAaWmMx0ABFwYWNrYWdlU3VibWlzc2lvbnNxAH4ADFmRt8Z0AA5jb3B5JGRlZmF1bHQkM3NxAH4ADJm6+eZ0AARjb3B5c3EAfgAMUm4W7XQACHRvU3RyaW5nc3EAfgAMVjoDY3QAAiE9c3EAfgAMKAQBCHQACHByb2plY3Rzc3EAfgAMoYhb/nQACGdldENsYXNzc3EAfgAMZIbi0nQADXByZW1pdW1JdGVtSWRzcQB+AAyRGzqhdAAOY29weSRkZWZhdWx0JDFzcQB+AAypKx0IdAAKYXNzaWdubWVudHNxAH4ADBCSG7p0AAJuZXNxAH4ADDcW1i90AAZwYXJ0SWRzcQB+AAxpaBozdAARc3R5bGVDaGVja1NldHRpbmdzcQB+AAycApGgdAACZXFzcQB+AAzvrI0VdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMZG7XiXQACHNldHRpbmdzc3EAfgAMWyZpDXQACmZhaWxTdWJtaXRzcQB+AAyiE6O/dAACIyNzcQB+AAxCc8O9dAAIZmluYWxpemVzcQB+AAxAOiqpdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAxKWXMcdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAADc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCZeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAcQB+ADF1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AsHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgCZTAAJaW5oZXJpdGVkcQB+AJlMAAdwYXJlbnRzcQB+AJl4cQB+ALVzcQB+ALB1cQB+AJQAAAAAc3EAfgCwdXEAfgCUAAAAAHNxAH4AsHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAGc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AtHQADFNlcmlhbGl6YWJsZXNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AtHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AznNxAH4AwXEAfgDEc3EAfgDFc3EAfgDIdXEAfgDLAAAAA3NxAH4AzXQABGphdmFzcQB+AM10AAJpb3EAfgDSc3EAfgDBdAAHUHJvZHVjdHEAfgDHc3EAfgDBdAAGRXF1YWxzcQB+AMdzcQB+AMF0AAZPYmplY3RzcQB+AMVzcQB+AMh1cQB+AMsAAAADc3EAfgDNcQB+ANhzcQB+AM10AARsYW5ncQB+ANJzcQB+AMF0AANBbnlxAH4Ax3NxAH4AlnEAfgCjdXEAfgCkAAAAAHNxAH4ApgBxAH4AEXVxAH4AqAAAAABxAH4ArHVxAH4ArgAAAABzcQB+ALBxAH4AtnNxAH4AsHNxAH4AuHNxAH4AsHVxAH4AlAAAAABzcQB+ALB1cQB+AJQAAAAAc3EAfgCwdXEAfgC/AAAABnNxAH4AwXEAfgDEc3EAfgDFc3EAfgDIdXEAfgDLAAAAAnNxAH4AzXEAfgDQcQB+ANJzcQB+AMFxAH4AxHNxAH4AxXNxAH4AyHVxAH4AywAAAANzcQB+AM1xAH4A2HNxAH4AzXQAAmlvcQB+ANJzcQB+AMFxAH4A3HEAfgD4c3EAfgDBdAAGRXF1YWxzcQB+APhzcQB+AMFxAH4A4HNxAH4AxXNxAH4AyHVxAH4AywAAAANzcQB+AM1xAH4A2HNxAH4AzXEAfgDmcQB+ANJzcQB+AMFxAH4A6HEAfgD4c3EAfgCWcQB+AKN1cQB+AKQAAAAAc3EAfgCmAHEAfgATdXEAfgCoAAAAAHEAfgCsdXEAfgCuAAAAAHNxAH4AsHEAfgC2c3EAfgCwc3EAfgC4c3EAfgCwdXEAfgCUAAAAAHNxAH4AsHVxAH4AlAAAAABzcQB+ALB1cQB+AL8AAAAEc3EAfgDBdAALQ29tbW9uQnVpbGRzcQB+AMVzcQB+AMh1cQB+AMsAAAABcQB+ANJzcQB+AMF0AAVCdWlsZHNxAH4AxXNxAH4AyHVxAH4AywAAAAJzcQB+AM10AANzYnRxAH4A0nNxAH4AwXEAfgDgc3EAfgDFc3EAfgDIdXEAfgDLAAAAA3NxAH4AzXEAfgDYc3EAfgDNcQB+AOZxAH4A0nNxAH4AwXEAfgDoc3EAfgDFc3EAfgDIdXEAfgDLAAAAAnNxAH4AzXEAfgDQcQB+ANJ1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZljHmYx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABMRzpcTXkgRHJpdmVcU0NBTEFfQ09VUlNFUkFccGF0bWF0XHByb2plY3RcdGFyZ2V0XHNjYWxhLTIuMTBcc2J0LTAuMTNcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFNFSI0xe3sHADvtnTUVjXsedCB3e
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwA5yDYQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAec3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwxhGZPXQABm5vdGlmeXNxAH4ADAEBzrx0AAR3YWl0c3EAfgAMReDKAnQADSRhc0luc3RhbmNlT2ZzcQB+AAzEM6NtdAAGZXF1YWxzc3EAfgAMfBsbIXQADGFzSW5zdGFuY2VPZnNxAH4ADPlntxx0AAxzeW5jaHJvbml6ZWRzcQB+AAzqS+Z1dAAFc2NvcmVzcQB+AAzvDFjvdAANJGlzSW5zdGFuY2VPZnNxAH4ADDm4A3N0AAtlYWNoTWVzc2FnZXNxAH4ADNq4ZWl0AAlub3RpZnlBbGxzcQB+AAzZUrWxdAAMaXNJbnN0YW5jZU9mc3EAfgAMqozU6nQACW1heFJlc3VsdHNxAH4ADOfgFvB0AAY8aW5pdD5zcQB+AAxeTfJ7dAAJZmlsZUNvdW50c3EAfgAM4H5eAnQAAj09c3EAfgAMazJ5hHQABmFzc2Vzc3NxAH4ADHo0SXZ0AAVjbG9uZXNxAH4ADOZvSoZ0AAYkaW5pdCRzcQB+AAwh0c+xdAAHbWVzc2FnZXNxAH4ADJjayQ50AAh0b1N0cmluZ3NxAH4ADKYogRR0AAIhPXNxAH4ADEBzEaZ0AAxTdHlsZUNoZWNrZXJzcQB+AAwup0/kdAAIZ2V0Q2xhc3NzcQB+AAz9phuLdAAGb3V0cHV0c3EAfgAMDUBjW3QAAm5lc3EAfgAM5Gr7pnQAAmVxc3EAfgAM5ezUynQAAiMjc3EAfgAM0XsSHHQACGZpbmFsaXplc3EAfgAM6YMArXQACGhhc2hDb2Rlc3EAfgAMw3p7JXQAEEN1c3RvbVRleHRPdXRwdXRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBTeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAcQB+ADl1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGpzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AU0wACWluaGVyaXRlZHEAfgBTTAAHcGFyZW50c3EAfgBTeHEAfgBvc3EAfgBqdXEAfgBOAAAAAHNxAH4AanVxAH4ATgAAAABzcQB+AGp1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AG50AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AG5zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AId0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIhzcQB+AHt0AANBbnlzcQB+AH9zcQB+AIJ1cQB+AIUAAAACc3EAfgCHdAAFc2NhbGFxAH4AjnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFmWMeZjHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AExHOlxNeSBEcml2ZVxTQ0FMQV9DT1VSU0VSQVxwYXRtYXRccHJvamVjdFx0YXJnZXRcc2NhbGEtMi4xMFxzYnQtMC4xM1xjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUcfqX2CmpAuNbrR52JSLELLu1yDc=
+external apis:
+0 items
+source infos:
+8 items
+G:\My Drive\SCALA_COURSERA\patmat\project\CommonBuild.scala -> 
+AAAAAQAAAQAAAAMAIXRyYWl0IENvbW1vbkJ1aWxkIGV4dGVuZHMgQnVpbGQgewEAAAAoAQAAABoBABogICAgICAgICAgICAgICAgICAgICAgICAgIAEAO0c6XE15IERyaXZlXFNDQUxBX0NPVVJTRVJBXHBhdG1hdFxwcm9qZWN0XENvbW1vbkJ1aWxkLnNjYWxhAQA7RzpcTXkgRHJpdmVcU0NBTEFfQ09VUlNFUkFccGF0bWF0XHByb2plY3RcQ29tbW9uQnVpbGQuc2NhbGEAQXRyYWl0IEJ1aWxkIGluIHBhY2thZ2Ugc2J0IGlzIGRlcHJlY2F0ZWQ6IFVzZSAuc2J0IGZvcm1hdCBpbnN0ZWFkAQAAAAA=
+G:\My Drive\SCALA_COURSERA\patmat\project\Courses.scala -> 
+AAAAAAAAAAA=
+G:\My Drive\SCALA_COURSERA\patmat\project\GradingFeedback.scala -> 
+AAAAAAAAAAA=
+G:\My Drive\SCALA_COURSERA\patmat\project\ScalaTestRunner.scala -> 
+AAAAAAAAAAA=
+G:\My Drive\SCALA_COURSERA\patmat\project\Settings.scala -> 
+AAAAAAAAAAA=
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuild.scala -> 
+AAAAAAAAAAA=
+G:\My Drive\SCALA_COURSERA\patmat\project\StudentBuildLike.scala -> 
+AAAAAAAAAAA=
+G:\My Drive\SCALA_COURSERA\patmat\project\StyleChecker.scala -> 
+AAAAAAAAAAA=
+compilations:
+2 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZjldBFt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATEc6XE15IERyaXZlXFNDQUxBX0NPVVJTRVJBXHBhdG1hdFxwcm9qZWN0XHRhcmdldFxzY2FsYS0yLjEwXHNidC0wLjEzXGNsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZljHmYx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATEc6XE15IERyaXZlXFNDQUxBX0NPVVJTRVJBXHBhdG1hdFxwcm9qZWN0XHRhcmdldFxzY2FsYS0yLjEwXHNidC0wLjEzXGNsYXNzZXN0AAEv
